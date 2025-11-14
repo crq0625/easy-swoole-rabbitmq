@@ -5,7 +5,7 @@ EasySwoole 框架的 RabbitMQ 队列插件，基于 php-amqplib/php-amqplib
 已支持 direct topic fanout
 
 ### 安装
-composer require lys/easy-swoole-rabbitmq
+composer require crq0625/easy-swoole-rabbitmq
 
 
 ### 示例:
